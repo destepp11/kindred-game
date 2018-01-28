@@ -1,29 +1,11 @@
-# README #
+# Welcome to the kindred-game repository!
 
-This README would normally document whatever steps are necessary to get your application up and running.
+## Purpose
+This repository has the source code for a Unity project I have under development.
 
-### What is this repository for? ###
-
-* Quick summary
-* Version
-* [Learn Markdown](https://bitbucket.org/tutorials/markdowndemo)
-
-### How do I get set up? ###
-
-* Summary of set up
-* Configuration
-* Dependencies
-* Database configuration
-* How to run tests
-* Deployment instructions
-
-### Contribution guidelines ###
-
-* Writing tests
-* Code review
-* Other guidelines
-
-### Who do I talk to? ###
-
-* Repo owner or admin
-* Other community or team contact
+## Rules of the Repository
+* Master branch is production, period.
+* Do not commit to master, please work off the development branch.
+* When working locally, try to work in feature branches.
+* Please follow GitFlow.
+* You may fork this repository freely, for personal or commerical use. It would be cool if you dropped my name in some credits, but it's not required.
